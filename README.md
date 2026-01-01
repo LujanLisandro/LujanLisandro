@@ -34,28 +34,9 @@ Soy un desarrollador backend con interés en crear productos o servicios que sol
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </span>
 
-
-
-
-
-<h3>GitHub Stats: </h3>
-
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lichu0800&theme=jolly&show_icons=true&hide_border=false&layout=compact" alt="Lichu0800" />
-  </p>
-  <br><br><br><br><br><br><br><br><br>
-
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lichu0800&theme=jolly&show_icons=true&hide_border=false&count_private=true" alt="Lichu0800" />
-  </p>
-  <br><br><br><br><br><br><br><br><br><br><br>
-
-
 <hr width="60%" >
 <h3 align="left">Redes Sociales:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lisandro-luján-34503724a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/lichu_lujan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lichu_lujan" height="30" width="40" /></a>
 </p>
 <br>
