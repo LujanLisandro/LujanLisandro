@@ -7,9 +7,7 @@
 
 Soy un desarrollador backend con interés en crear productos o servicios que solucionen una problemática real.
 - 📝 Me encuentro aprendiendo:
-  - Spring Security
   - Microservicios
-- 💼 Estoy en búsqueda de mi primer experiencia laboral.
 - 📫 Puedes contactarme: <a href="lujanlisandro.11@gmail.com">lujanlisandro.11@gmail.com</a>
 
 ## Lenguajes:
